@@ -1059,3 +1059,244 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.08-21.27.51:241][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
 [2020.01.08-21.27.51:260][163]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2020.01.08-21.28.54:324][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.30.53:129][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.31.30:170][900]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.08-21.31.42:121][900]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2020.01.08-21.31.50:576][143]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.08-21.31.58:145][143]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2020.01.08-21.31.58:169][143]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TPGame/Clock.Clock
+[2020.01.08-21.32.11:475][404]LogEditorTransaction: Undo Modify Component Scale
+[2020.01.08-21.32.17:659][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.32.26:315][650]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.32.26:412][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.32.26:423][650]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Clock2A4D9AB34217B4BEB72180B5885F682E.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.32.36:466][852]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.32.36:507][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.32.36:525][852]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Clock5C1D9D2E4C92887E1E2F18AD9B2FAD6B.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.32.56:455][291]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.32.56:489][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Coin" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset" SILENT=true
+[2020.01.08-21.32.56:511][291]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Coin0CCB7C2D45A153C4ACCFA2B8D3D8244E.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset'
+[2020.01.08-21.33.03:775][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.33.11:203][569]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.33.11:220][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.33.11:231][569]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Clock66E0F0CA4C1BAEC5A9E89F8C8FB7FB06.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.33.16:724][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.33.22:254][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.33.23:257][850]BlueprintLog: New page: Compile Coin
+[2020.01.08-21.33.23:524][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.08-21.33.25:293][888]BlueprintLog: New page: Compile Clock
+[2020.01.08-21.33.25:549][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.01.08-21.33.36:154][279]LogEditorViewport: Clicking on Actor (LMB): Coin_C (Coin)
+[2020.01.08-21.33.56:814][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.33.56:883][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.01.08-21.33.57:125][ 53]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap5976B0EB4BE8752127127C8689A35495.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.08-21.33.57:201][ 53]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap_BuiltData8F220B6E46A23FF2D17858883BE78C0F.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.08-21.33.58:245][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.33.59:139][129]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-21.33.59:165][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.33.59:165][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-21.33.59:165][129]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 5:33:59 AM)
+[2020.01.08-21.33.59:165][129]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.33.59:191][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025560s)
+[2020.01.08-21.33.59:191][129]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.08-21.33.59:192][129]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2020.01.08-21.33.59:192][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026667s)
+[2020.01.08-21.33.59:238][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.08-21.33.59:263][129]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.08-21.33.59:343][129]LogInit: FAudioDevice initialized.
+[2020.01.08-21.33.59:343][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.33.59:354][129]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.08-21.33.59:356][129]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.08-13.33.59
+[2020.01.08-21.33.59:356][129]LogWorld: Bringing up level for play took: 0.001693
+[2020.01.08-21.33.59:356][129]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.08-21.33.59:359][129]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.538
+[2020.01.08-21.33.59:359][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.34.05:988][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.34.05:988][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.34.05:988][395]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.34.05:988][395]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-21.34.06:052][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-21.34.06:052][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.34.06:103][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.34.06:109][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.01.08-21.34.06:128][396]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.08-21.34.40:077][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.37.23:738][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.38.15:461][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.39.02:968][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.40.06:122][156]LogEditorTransaction: Undo Add Pin
+[2020.01.08-21.40.14:478][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/TPGameHUD" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/TPGameHUD.uasset" SILENT=true
+[2020.01.08-21.40.14:506][420]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/TPGameHUDD39206BB45046ECF0D87DEB2F9294E08.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/TPGameHUD.uasset'
+[2020.01.08-21.40.17:123][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.40.50:201][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.40.50:220][537]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ClockECBE177243910D7E2B4070800F09A16F.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.40.51:464][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.41.49:701][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.41.49:724][417]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Clock05F18FFA400CF11E639215BD0966D0DB.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.41.50:998][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.41.59:523][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.41.59:538][731]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ClockF4436346466D09C5078E8A9A5CF704C0.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.41.59:979][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.42.10:254][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.42.11:359][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.42.13:984][102]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.42.14:016][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.42.14:037][102]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ClockB58A958B461F6301495B95B7B155F732.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.42.20:431][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.42.31:400][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.42.35:819][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.42.41:874][945]BlueprintLog: New page: Compile Clock
+[2020.01.08-21.42.41:878][945]LogBlueprint: Warning: [Compiler Clock] Could not find the function 'ClockCollected' called from  Clock Collected
+[2020.01.08-21.42.42:145][945]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.01.08-21.42.43:863][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.42.43:886][996]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ClockD4D137394BFFEA46DA15CB851395C1D4.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.42.45:688][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.43.24:582][279]BlueprintLog: New page: Compile TPGameHUD
+[2020.01.08-21.43.24:849][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.01.08-21.43.26:966][344]BlueprintLog: New page: Compile Clock
+[2020.01.08-21.43.27:227][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.01.08-21.43.28:909][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.43.28:931][394]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ClockA7DF5910495C9E8793AC49B003D138EA.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.43.30:366][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.43.33:032][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.43.34:166][576]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-21.43.34:184][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.43.34:184][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-21.43.34:184][576]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 5:43:34 AM)
+[2020.01.08-21.43.34:184][576]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.43.34:204][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020097s)
+[2020.01.08-21.43.34:205][576]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.08-21.43.34:205][576]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2020.01.08-21.43.34:205][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021200s)
+[2020.01.08-21.43.34:249][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.01.08-21.43.34:275][576]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.08-21.43.34:381][576]LogInit: FAudioDevice initialized.
+[2020.01.08-21.43.34:382][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.43.34:388][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.08-21.43.34:390][576]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.08-13.43.34
+[2020.01.08-21.43.34:391][576]LogWorld: Bringing up level for play took: 0.001523
+[2020.01.08-21.43.34:391][576]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.01.08-21.43.34:393][576]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.428
+[2020.01.08-21.43.34:393][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.43.49:852][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.43.49:853][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.43.49:853][204]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.43.49:853][204]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-21.43.49:919][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-21.43.49:919][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.43.49:970][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.43.49:975][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.08-21.43.49:994][205]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.08-21.43.50:940][242]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.43.51:025][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.08-21.43.51:371][242]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap8796CA0D49D0BA7C1DF2E98480581AD0.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.08-21.43.51:450][242]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap_BuiltData501E6CE249DFF05188AAB5B70BF1FC33.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.08-21.43.58:750][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.44.33:980][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.45.07:355][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.45.28:378][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.46.25:791][506]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.01.08-21.46.25:809][506]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.46.31:623][679]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.01.08-21.46.31:665][679]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.01.08-21.46.33:747][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.47.05:290][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.47.12:662][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.47.26:476][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.47.31:065][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.48.00:807][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Coin" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset" SILENT=true
+[2020.01.08-21.48.00:843][240]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/CoinE22C8A0D49AE1F07543AE89370CC0FE2.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset'
+[2020.01.08-21.48.03:555][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.48.30:278][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Coin" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset" SILENT=true
+[2020.01.08-21.48.30:303][198]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/CoinA7E118BA4DB9A25778BB4F823E81B27A.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset'
+[2020.01.08-21.48.36:229][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.48.36:288][392]BlueprintLog: New page: Compile Coin
+[2020.01.08-21.48.36:550][392]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.01.08-21.48.39:783][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.48.42:520][607]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-21.48.42:545][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.48.42:545][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-21.48.42:545][607]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 5:48:42 AM)
+[2020.01.08-21.48.42:545][607]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.48.42:561][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016137s)
+[2020.01.08-21.48.42:562][607]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.08-21.48.42:562][607]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2020.01.08-21.48.42:563][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017696s)
+[2020.01.08-21.48.42:606][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.01.08-21.48.42:631][607]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.08-21.48.42:711][607]LogInit: FAudioDevice initialized.
+[2020.01.08-21.48.42:712][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.08-21.48.42:720][607]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.08-21.48.42:723][607]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.08-13.48.42
+[2020.01.08-21.48.42:723][607]LogWorld: Bringing up level for play took: 0.001647
+[2020.01.08-21.48.42:723][607]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.08-21.48.42:725][607]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.097
+[2020.01.08-21.48.42:725][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.48.54:989][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.48.54:990][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.48.54:990][111]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.48.54:990][111]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-21.48.55:053][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-21.48.55:053][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.48.55:101][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.48.55:106][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.08-21.48.55:127][112]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.08-21.48.55:940][143]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.48.55:991][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.08-21.48.56:235][143]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMapD48B7B4F41F41E33574AC59C190AE51A.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.08-21.48.56:312][143]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap_BuiltData74070E7B4E55D2834BC58EAB18351EA8.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.08-21.48.59:402][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.49.51:670][833]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.01.08-21.49.51:687][833]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.49.54:361][913]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.01.08-21.49.54:418][913]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.01.08-21.49.55:963][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.50.04:917][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.50.04:943][241]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Clock4D59009146756EE8C79C1A89F9C0F615.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.50.06:056][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.50.23:887][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Coin" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset" SILENT=true
+[2020.01.08-21.50.23:911][845]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Coin47D495284AC7D7D92CF92493B89A4D70.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Coin.uasset'
+[2020.01.08-21.50.24:758][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.50.44:208][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.50.44:228][494]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ClockC37546EE447FC5EC7FB709AF65A349FC.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.50.51:112][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.51.03:527][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/Clock" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset" SILENT=true
+[2020.01.08-21.51.03:544][113]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/Clock0D676B4E4EB80411C2D46BAC267D986E.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/Clock.uasset'
+[2020.01.08-21.51.04:407][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.51.12:538][401]BlueprintLog: New page: Compile Clock
+[2020.01.08-21.51.12:797][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.08-21.51.15:419][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TPGame/TPGameHUD" FILE="../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/TPGameHUD.uasset" SILENT=true
+[2020.01.08-21.51.15:444][484]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/TPGameHUD4C1E21E64B6A8114F65C0E8D754B0D27.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/TPGame/TPGameHUD.uasset'
+[2020.01.08-21.51.16:300][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.51.17:805][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.08-21.51.19:000][609]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.08-21.51.19:020][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.51.19:020][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.08-21.51.19:020][609]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 5:51:19 AM)
+[2020.01.08-21.51.19:020][609]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.51.19:039][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019192s)
+[2020.01.08-21.51.19:040][609]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.08-21.51.19:040][609]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2020.01.08-21.51.19:040][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020160s)
+[2020.01.08-21.51.19:080][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.01.08-21.51.19:105][609]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.08-21.51.19:187][609]LogInit: FAudioDevice initialized.
+[2020.01.08-21.51.19:191][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.08-21.51.19:193][609]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.08-13.51.19
+[2020.01.08-21.51.19:193][609]LogWorld: Bringing up level for play took: 0.001399
+[2020.01.08-21.51.19:193][609]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.08-21.51.19:195][609]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.374
+[2020.01.08-21.51.19:195][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.51.37:070][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.51.37:070][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.51.37:070][341]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.08-21.51.37:070][341]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.08-21.51.37:133][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.08-21.51.37:133][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.08-21.51.37:183][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.08-21.51.37:188][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.08-21.51.37:210][342]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.08-21.51.38:927][408]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.08-21.51.38:986][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.01.08-21.51.39:234][408]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap6B09EA6E40A3E2AEF6BE9F8D81CC778C.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.08-21.51.39:310][408]LogSavePackage: Moving '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Saved/ThirdPersonExampleMap_BuiltData7B325F074E5CF52F2B4EE5AFA157EA02.tmp' to '../../../../../../Users/Alex/Desktop/Unreal/FirstAssignment/UnrealExample/TPPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
