@@ -9,7 +9,7 @@
   a. All files that come standard from an Unreal project
 
 3.) Description of any known compile/runtime errors, or bugs.
-  a. n/a
+  a. Player does not respawn if they fall off the level.
 
 4.) References used to complete the assignment
   a. Unreal Documentation
